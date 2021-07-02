@@ -1,0 +1,7 @@
+创建txt文件命令：touch 文件名
+进入文件命令：vi 文件名
+删除文件命令：rm 文件名
+压缩tar命令：tar -zcvf 压缩名.tar.gz 文件/目录
+解压tar命令：tar -zxvf 压缩包名
+压缩zip命令：zip -q -r 新压缩包名.zip 文件/目录
+解压zip命令：unzip 压缩包名.zip
